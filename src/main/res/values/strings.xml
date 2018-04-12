@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">Moon Quiz</string>
+
+    <string name="question1">1. What is the moon thought to be made of?</string>
+    <string name="question2">2. How far away is the moon from the Earth on average?</string>
+    <string name="question3">3. What causes the phases of the moon? (The lunar phase or moon cycle refers to the shape of the moon as viewed from Earth. Some of its phases include new, first quarter, full, and waning crescent.)</string>
+    <string name="question4">4. The moon is moving in which of these ways?</string>
+    <string name="question5">5. In which direction does the moon rise?</string>
+    <string name="question6">6. What does the term "blue moon" refer to?</string>
+    <string name="question7">7. A supermoon occurs only at a certain time during a full moon. That time is:</string>
+    <string name="question8">8. Which of these is a type of lunar eclipse?</string>
+    <string name="question9">9. What causes a lunar eclipse?</string>
+    <string name="question10">10. The moon goes through different phases as its position changes relative to the sun, ranging from a full moon (in which it’s fully illuminated by the sun) to a new moon (no illumination). At what phase does a supermoon always occur?</string>
+
+    <string name="solution1">Unfortunately, the moon isn’t made out of cheese. It does, however, consists of more complicated elements, like the ones found here on Earth.</string>
+    <string name="solution2">The moon does not move in a perfect circle; it has a distinct elliptical orbit. When the moon is at its farthest approach from the Earth, or at apogee, it’s about 252,088 miles away. At its closest approach, or at perigee, the moon 238,855 miles away. According to NASA, that’s a distance of almost 32 and 28 Earths respectively!</string>
+    <string name="solution3">It is a common misconception that the Earth’s shadow causes the moon phases (when that happens, it is called a lunar eclipse). Lunar phases are actually caused by the light from the sun and the moon’s orbit around the Earth.  The sun always illuminates half of the moon, but we see it at different angles as it rotates around the Earth. We only see the part that the sun is illuminating."</string>
+    <string name="solution4">The moon makes a complete orbit around the Earth approximately once every 27.3 days. Similarly, It also takes approximately 27 days for the moon to rotate once on its axis. However, the most interesting detail of them all is that the moon is moving away from the earth at approximately 1.6 inches per year. This means, in 600 million years or so, there won’t be any more total solar eclipses!</string>
+    <string name="solution5">Though it may seem like the Earth moves up and then down (depending on your perspective), the moon rises in the east and sets in the west, like the sun and other planets. This is because of the rotation of the Earth, which happens to be turning in a clockwise direction. </string>
+    <string name="solution6">Sometimes certain atmospheric conditions could make the moon change color, like red or blue. Moreover,  And it is also a song written in 1934 that was covered by musicians like Frank Sinatra, Billie Holiday, and others.</string>
+    <string name="solution7">During a supermoon, the moon is a little closer and brighter than usual. This is because the moon  moves in an elliptical orbit.</string>
+    <string name="solution8">There are three types of lunar eclipses: total, partial and penumbral.  The most dramatic and perhaps prominent one of them all is the total lunar eclipse.</string>
+    <string name="solution9">A lunar eclipse occurs when the moon passes directly behind Earth and into its shadow. During this time, sunlight no longer reflects off the moon, and it causes the moon to appear more dark than usual.</string>
+    <string name="solution10">A supermoon requires two things to occur: The moon needs to be at its closest approach to the Earth in its approximate 27.3 day orbit, and the moon also needs to be at its full phase, which happens every 29.5 days.</string>
+
+    <string name="answer1A">Cheese</string>
+    <string name="answer2A">238,900 miles</string>
+    <string name="answer3A">Earth’s shadow</string>
+    <string name="answer4A">Around the Earth every day</string>
+    <string name="answer5A">North to south</string>
+    <string name="answer6A">When the moon looks bluish in color</string>
+    <string name="answer7A">The perigee (the moon’s closest approach to the Earth in its orbit)</string>
+    <string name="answer8A">Total</string>
+    <string name="answer9A">The moon blocks the sunlight</string>
+    <string name="answer10A">New</string>
+
+    <string name="answer1B">Iron and rock, with magnesium, silicon, oxygen and more</string>
+    <string name="answer2B">2,389,000 miles</string>
+    <string name="answer3B">Dark matter</string>
+    <string name="answer4B">Away from Earth about 1.6 inches per year</string>
+    <string name="answer5B">Up and then down</string>
+    <string name="answer6B">The second full moon in a month</string>
+    <string name="answer7B">When the moon is in eclipse</string>
+    <string name="answer8B">Partial</string>
+    <string name="answer9B">The Earth blocks the sunlight</string>
+    <string name="answer10B">Quarter</string>
+
+    <string name="answer1C">Mostly gold, silver and bronze</string>
+    <string name="answer2C">23,890 miles </string>
+    <string name="answer3C">Clouds in the sky at night</string>
+    <string name="answer4C">Toward Earth about 1.6 inches per year</string>
+    <string name="answer5C">East to west</string>
+    <string name="answer6C">A classic song covered by many musicians</string>
+    <string name="answer7C">At low tide</string>
+    <string name="answer8C">Penumbral</string>
+    <string name="answer9C">The sun blocks out the moon</string>
+    <string name="answer10C">Half</string>
+
+    <string name="answer1D">It’s a hologram</string>
+    <string name="answer2D">23,890,000 miles</string>
+    <string name="answer3D">None of the above</string>
+    <string name="answer4D">Only at night</string>
+    <string name="answer5D">West to east</string>
+    <string name="answer6D">All of the above	</string>
+    <string name="answer7D">The apogee (the moon’s farthest approach from the Earth in its orbit)</string>
+    <string name="answer8D">All of the above	</string>
+    <string name="answer9D">It’s a mystery of the universe</string>
+    <string name="answer10D">Full</string>
+
+    <string name="perfectScore">You got a PERFECT SCORE! You got most of the questions right!</string>
+    <string name="greatScore">You are an expert! You know a lot about the moon!</string>
+    <string name="averageScore">Your score is fair. You know some things about the moon!</string>
+    <string name="belowAverageScore">Good try! You need a little more studying on your moon facts!</string>
+    <string name="zeroScore">You got none of them right. Try again next time!</string>
+
+    <string-array name="answers_array1">
+        <item>@string/answer1A</item>
+        <item>@string/answer1B</item>
+        <item>@string/answer1C</item>
+        <item>@string/answer1D</item>
+    </string-array>
+
+    <string-array name="answers_array2">
+        <item>@string/answer2A</item>
+        <item>@string/answer2B</item>
+        <item>@string/answer2C</item>
+        <item>@string/answer2D</item>
+    </string-array>
+
+    <string-array name="answers_array3">
+        <item>@string/answer3A</item>
+        <item>@string/answer3B</item>
+        <item>@string/answer3C</item>
+        <item>@string/answer3D</item>
+    </string-array>
+
+    <string-array name="answers_array4">
+        <item>@string/answer4A</item>
+        <item>@string/answer4B</item>
+        <item>@string/answer4C</item>
+        <item>@string/answer4D</item>
+    </string-array>
+
+    <string-array name="answers_array5">
+        <item>@string/answer5A</item>
+        <item>@string/answer5B</item>
+        <item>@string/answer5C</item>
+        <item>@string/answer5D</item>
+    </string-array>
+
+    <string-array name="answers_array6">
+        <item>@string/answer6A</item>
+        <item>@string/answer6B</item>
+        <item>@string/answer6C</item>
+        <item>@string/answer6D</item>
+    </string-array>
+
+    <string-array name="answers_array7">
+        <item>@string/answer7A</item>
+        <item>@string/answer7B</item>
+        <item>@string/answer7C</item>
+        <item>@string/answer7D</item>
+    </string-array>
+
+    <string-array name="answers_array8">
+        <item>@string/answer8A</item>
+        <item>@string/answer8B</item>
+        <item>@string/answer8C</item>
+        <item>@string/answer8D</item>
+    </string-array>
+
+    <string-array name="answers_array9">
+        <item>@string/answer9A</item>
+        <item>@string/answer9B</item>
+        <item>@string/answer9C</item>
+        <item>@string/answer9D</item>
+    </string-array>
+
+    <string-array name="answers_array10">
+        <item>@string/answer10A</item>
+        <item>@string/answer10B</item>
+        <item>@string/answer10C</item>
+        <item>@string/answer10D</item>
+    </string-array>
+
+    <string name="empty_space" />
+    <string name="anon">Anonymous</string>
+    <string name="questions">Questions</string>
+    <string name="solutions">Solutions</string>
+    <string name="quit">Quit</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit Answers</string>
+    <string name="next">Next</string>
+    <string name="remain_anon">Or would you rather remain anonymous?</string>
+    <string name="enter_name">Your name...</string>
+    <string name="Please_name">Please enter your name to continue:</string>
+    <string name="Continue_word">Continue</string>
+    <string name="enter">Enter</string>
+    <string name="welcome_message">Welcome to the Moon Quiz App!</string>
+</resources>
