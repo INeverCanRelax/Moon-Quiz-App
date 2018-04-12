@@ -64,6 +64,9 @@ public class MainActivity extends AppCompatActivity {
     }
     public void resetButton(View v) {
         resetApp();
+
+        ScrollView scrollView = findViewById(R.id.scroll_view_main);
+        scrollView.fullScroll(ScrollView.FOCUS_UP);
     }
     public void submitAnswersButton(View v) {
         getAllAnswers();
